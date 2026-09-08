@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideGuide", "SlideGuide\SlideGuide.csproj", "{105243CF-B025-4B5A-870A-120B5E2541D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MirageUI", "MirageUI", "{7EF9E2AE-EB79-84A3-9917-0A670300E02F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirageUI", "MirageUI\MirageUI\MirageUI.csproj", "{4680780D-9603-494C-A7AE-753990E93966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|Any CPU.Build.0 = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|x64.ActiveCfg = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|x64.Build.0 = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|x86.ActiveCfg = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Debug|x86.Build.0 = Debug|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|Any CPU.ActiveCfg = Release|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|Any CPU.Build.0 = Release|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|x64.ActiveCfg = Release|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|x64.Build.0 = Release|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|x86.ActiveCfg = Release|x64
+		{105243CF-B025-4B5A-870A-120B5E2541D0}.Release|x86.Build.0 = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|Any CPU.Build.0 = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|x64.ActiveCfg = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|x64.Build.0 = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|x86.ActiveCfg = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Debug|x86.Build.0 = Debug|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|Any CPU.ActiveCfg = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|Any CPU.Build.0 = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|x64.ActiveCfg = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|x64.Build.0 = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|x86.ActiveCfg = Release|x64
+		{4680780D-9603-494C-A7AE-753990E93966}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4680780D-9603-494C-A7AE-753990E93966} = {7EF9E2AE-EB79-84A3-9917-0A670300E02F}
+	EndGlobalSection
+EndGlobal
